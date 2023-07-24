@@ -1,4 +1,4 @@
-package com.group.holanda.apicep;
+package apicep.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

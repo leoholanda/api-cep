@@ -1,4 +1,4 @@
-package com.group.holanda.apicep;
+package apicep.application;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
